@@ -37,7 +37,7 @@ Screenshots were captured during the Wokwi simulation:
 - `TC04_Defect_Wrong_Pin.png`
 - `TC05_Fix_Verification.png`
 
-The screenshots are stored locally and can be included in the final activity report.
+The screenshots are uploaded to the repository's `evidence/` folder.
 
 ## 6. Testing Limitation
 Testing was performed using the Wokwi simulator. The results demonstrate simulated behavior and do not represent testing on a physical Arduino Uno board. The timing check was a visual observation, not a precision measurement.
