@@ -76,7 +76,7 @@ The following areas are considered for testing:
 - LED ON/OFF operation
 - Source code documentation
 
-Testing results and issue resolution details will be documented as the QA activity progresses.
+Testing was performed using the Wokwi simulator. The original LED blinking code was tested, a wrong-pin defect was introduced and reproduced, and the correction was verified. Detailed results are available in `QA_Test_Report.md`, and screenshots are available in the `evidence/` folder.
 
 ## 8. GitHub Repository Structure
 
